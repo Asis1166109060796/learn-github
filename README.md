@@ -1,3 +1,3 @@
-# learn-github
+# AFC Asia Cup 2023
 
 The 2023 AFC Asian Cup will be the 18th edition of the AFC Asian Cup, the quadrennial international football tournament organised by the Asian Football Confederation (AFC). It will involve 24 national teams after expansion in 2019, with Qatar the defending champions. On 17 October 2022, the AFC announced that the tournament will be held in Qatar, replacing original hosts China. Due to the high summer temperatures and Qatar's participation in the 2023 CONCACAF Gold Cup, the tournament was postponed to 12 January – 10 February 2024, while retaining the original name for both existing sponsorship and logistical purposes
